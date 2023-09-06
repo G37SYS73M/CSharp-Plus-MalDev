@@ -1,0 +1,6 @@
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\bin\Debug\Structure_And_Union.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\obj\Debug\Structure_And_Union.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\obj\Debug\Structure_And_Union.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\obj\Debug\Structure_And_Union.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\bin\Debug\Structure_And_Union.exe
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Structure_And_Union\Structure_And_Union\obj\Debug\Structure_And_Union.exe

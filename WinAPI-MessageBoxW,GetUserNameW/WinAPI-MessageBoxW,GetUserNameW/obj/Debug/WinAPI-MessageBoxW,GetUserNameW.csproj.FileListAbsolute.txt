@@ -1,0 +1,6 @@
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\bin\Debug\WinAPI-MessageBoxW,GetUserNameW.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\obj\Debug\WinAPI-MessageBoxW,GetUserNameW.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\obj\Debug\WinAPI-MessageBoxW,GetUserNameW.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\obj\Debug\WinAPI-MessageBoxW,GetUserNameW.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\bin\Debug\WinAPI-MessageBoxW,GetUserNameW.exe
+C:\Users\root\Desktop\CSharp-Plus-MalDev\WinAPI-MessageBoxW,GetUserNameW\WinAPI-MessageBoxW,GetUserNameW\obj\Debug\WinAPI-MessageBoxW,GetUserNameW.exe

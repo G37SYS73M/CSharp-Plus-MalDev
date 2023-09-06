@@ -1,0 +1,6 @@
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\root\Desktop\CSharp-Plus-MalDev\Basics\Hello_World\obj\Release\Hello_World.csproj.CoreCompileInputs.cache
